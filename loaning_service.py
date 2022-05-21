@@ -88,6 +88,8 @@ while(i==1):
 
     i=int(input("\n\n\n\nfor new entry press 1 else 0"))
 
+    nl+=1
+    nb+=1
         
 
     
